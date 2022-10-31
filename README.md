@@ -11,6 +11,7 @@ Orthophoto ([51MB](https://open-hazards-ph.s3.amazonaws.com/datum/plaza-roma/pla
 <img src="plaza_roma_ortho.jpg" width="300" >| <img src="plaza_roma_dsm.jpg" width="300" > | <img src="plaza_roma_laz.jpg" width="250" > 
 
 
+# License
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
