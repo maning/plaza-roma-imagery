@@ -1,6 +1,6 @@
 # plaza-roma-imagery
 
-Plaza Roma data is a subset of Intramuros dronbe imagery data provided by [Datum PH](https://datum.ph/) to OpenStreetMap Philippines under the [2021 Drone Imagery Collection Grant by Datum & OSMph](https://wiki.openstreetmap.org/wiki/Philippines/2021_Drone_Imagery_Collection_Grant_by_Datum_%26_OSMph).
+Plaza Roma data is a subset of Intramuros drone imagery data provided by [Datum PH](https://datum.ph/) to OpenStreetMap Philippines under the [2021 Drone Imagery Collection Grant by Datum & OSMph](https://wiki.openstreetmap.org/wiki/Philippines/2021_Drone_Imagery_Collection_Grant_by_Datum_%26_OSMph).
 
 We are sharing this subset to allow anyone to explore and experiment with drone imagery derived high resolution imagery on a small area.  Full dataset is available at [OpenAerialMap](https://map.openaerialmap.org/#/120.97864642739296,14.58711500168072,19/square/132303122000013300/635a05775f1fd800066121e2?resolution=high&_k=eixes5).
 
