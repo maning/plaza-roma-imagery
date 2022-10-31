@@ -6,9 +6,10 @@ We are sharing this subset to allow anyone to explore and experiment with drone 
 
 **Download each file in the following links.**
 
-Orthophoto ([53MB]()) | Digital Surface Model ([15MB]()) | Point cloud ([116MB]())
+Orthophoto ([51MB](https://open-hazards-ph.s3.amazonaws.com/datum/plaza-roma/plaza_roma_ortho.tif.zip)) | Digital Surface Model ([15MB](https://open-hazards-ph.s3.amazonaws.com/datum/plaza-roma/plaza_roma_dsm.tif.zip)) | Point cloud ([111MB](https://open-hazards-ph.s3.amazonaws.com/datum/plaza-roma/plaza_roma.laz.zip))
 --|--|--
-![](plaza_roma_ortho.jpg)|![](plaza_roma_dsm.jpg)|![](plaza_roma_laz.jpg)
+<img src="plaza_roma_ortho.jpg" width="300" >| <img src="plaza_roma_dsm.jpg" width="300" > | <img src="plaza_roma_laz.jpg" width="250" > 
+
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
