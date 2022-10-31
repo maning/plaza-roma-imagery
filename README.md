@@ -8,7 +8,7 @@ We are sharing this subset to allow anyone to explore and experiment with drone 
 
 Orthophoto ([53MB]()) | Digital Surface Model ([15MB]()) | Point cloud ([116MB]())
 --|--|--
-![](plaza_roma_ortho.jpg)|![](plaza_roma_dsm.jpg)|![](plaza_roma_ortho.jpg)
+![](plaza_roma_ortho.jpg)|![](plaza_roma_dsm.jpg)|![](plaza_roma_laz.jpg)
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
